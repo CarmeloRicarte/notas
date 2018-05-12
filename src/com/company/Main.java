@@ -1,5 +1,10 @@
 package com.company;
 
+/**
+ * Ejercicio Instalación IntelliJ IDEA Tema 12 GS DAW
+ * @author Carmelo Ricarte Rocamora
+ * @version 1.0
+ */
 public class Main {
 
     public static void main(String[] args) {
